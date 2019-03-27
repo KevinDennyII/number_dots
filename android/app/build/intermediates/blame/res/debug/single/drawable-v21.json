@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/mightyvt/.android/build-cache/01f2cba91dc4af6939864b6c0dcfeb4caa1fc0e0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mightyvt/.android/build-cache/dfa34166d813be46f24a2b161e1120cff32de193/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mightyvt/.android/build-cache/dfa34166d813be46f24a2b161e1120cff32de193/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/mightyvt/.android/build-cache/dfa34166d813be46f24a2b161e1120cff32de193/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

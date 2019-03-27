@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/2c16a4bd8e4217b74d48accafcebcdfb5719c9b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_dfb8237b62e5ca307eee94ca2564faf309845c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/4be96d161af5af0a91ee7efa1f576fa826d74c80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_1e282c4b283a3e7a8ef38527c46d904d86f03a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_f95a18089b114885a16d11ce5166ff77210e7dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/86547393dbda9bbb6d7f7c4f9b868baa7d9724a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_c85c36c65c95f06e5696e124c1cfa3cd61658d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/79f2980451d41a819a203d4bd783d5bd99e07600/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_73d70b193f328eb88c8638e21e849a9c3fde2e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/687dbfd40fbac954051ffa2f8796a57f45509f19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_72e2f9e7ebb30476cbe60fba559bac951f2227b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/24801d66c4e6b978c6552e0bb3fbad4cabbdcb6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_049a153d9e48ec59dcc4f7c171b4944076509355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/56e22173e415b706ecddce0fcac186e1ab1a2a15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_550e58df387b0367fd2b7b7bf3dbce3586d4c0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8b431a60d7e753d5182148b2827bd225e4b702d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4d8e57d483bfa51bf9a1178db8e969cfbd5b2c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/687dbfd40fbac954051ffa2f8796a57f45509f19/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_afa9001e713f6f896110a888ca036ce74e6e7175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mightyvt/.android/build-cache/d6d02c90a00c48dc2e741394d3e840a1721d0fdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mightyvt/Documents/workspace/number_dots/android/app/build/intermediates/pre-dexed/debug/classes_cfa0e9a01daf12ce9f8f25cae7a87192154a6166.jar" />
+    </item>
+
+</items>
